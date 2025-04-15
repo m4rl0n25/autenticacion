@@ -1,4 +1,4 @@
-Enter file contents here
+
 from flask import Flask, render_template_string, request, redirect, session, url_for
 
 app = Flask(__name__)
